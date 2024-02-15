@@ -7,11 +7,11 @@ Skilled in Javascript / Typescript (React / Express / NodeJS/ NestJs), Sprinboot
 
 Profession aside, I’m a IOT and animation enthusiast, I had fun working with Arduino, Raspberry Pi and Esp 32. During my college years I've helped Electronics major under-graduates to make smart bin and smart sanitizers during covid lockdown. During my student years I used to do animations in Pivot animator/Stykz animator and Macromedia flash 8 along with 3d designing/video editing in Blender3d.
 
-### Work Experience ###
-#### Freelancing | November 2023 - Present ####
+### Work Experience
+#### Freelancing | November 2023 - Present
     * Full stack developer for Kallisto - A Construction sector application suite.
       * Techonology used: ReactJs, Tailwind, Antd, NestJs,Typescript, PostgreSQL, Flutter, Bloc, ec2, rds, s3, firebase.
-#### Storetools | Development Intern | June 2023 - December 2023 ####
+#### Storetools | Development Intern | June 2023 - December 2023
     * Fullstack shopify developer for GST Pro - A shopify embedded app for gst included invoice + reports.
       * Technology used: ReactJs, postgresql, liquidJs, NestJs, Redis, HTML, CSS, JS, TS.
     * Fullstack shopify developer for Pixi Order Printer PDF Invoice - A shopify embedded app for invoice customization and reports.
