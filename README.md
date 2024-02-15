@@ -1,4 +1,5 @@
 ### Hi there 👋
+- - - -
 I'm a full-stack engineer, who loves building cool products and wear any hats for presented problem, working in projects of various sectors, experienced in designing and building critical features, keeping user experience, scalability, and maintainability in mind.
 
 My contribution in my organisation is mostly on designing, building and maintaining cloud infrastructure, backend APIs & services, improving code quality, as well as exploring and partaking in system design for various components / projects.
