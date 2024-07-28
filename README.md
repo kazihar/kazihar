@@ -4,7 +4,7 @@ I'm a full-stack engineer, who loves building cool products and wear any hats fo
 
 My contribution in my organisation is mostly on designing, building and maintaining cloud infrastructure, backend APIs & services, improving code quality, as well as exploring and partaking in system design for various components / projects.
 
-Skilled in Javascript / Typescript (React / Express / NodeJS/ NestJs), Python, Sprinboot, PostgreSQL, MongoDb, RethinkDB and Flutter Android Development with good experience in AWS, Machine learning.
+Skilled in Javascript / Typescript (React / Express / NodeJS/ NestJs), Python, Sprinboot, PostgreSQL, MongoDb, RethinkDB and Flutter Android Development with good experience in AWS, Machine learning and Rust.
 
 Profession aside, I’m a IOT and animation enthusiast, I had fun working with Arduino, Raspberry Pi and Esp 32. During my college years I've helped Electronics major under-graduates to make smart bin and smart sanitizers during covid lockdown. During my student years I used to do animations in Pivot animator/Stykz animator and Macromedia flash 8 along with 3d designing/video editing in Blender3d.
 
