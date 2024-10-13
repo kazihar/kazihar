@@ -12,6 +12,10 @@ Profession aside, I’m a IOT and animation enthusiast, I had fun working with A
 #### Freelancing | November 2023 - Present
     * Full stack developer for Kallisto - A Construction sector application suite.
       * Techonology used: ReactJs, Tailwind, Antd, NestJs,Typescript, PostgreSQL, Flutter, Bloc, ec2, rds, s3, firebase.
+    * Full stack engineer for Partspal - A B2B automobile parts seller suite.
+      * Technology used: ReactJs,Antd, PostgreSQL, Rust, Axum, Clap, React Native, React native Paper, AWS, Cloudflare
+    * Full stack engineer for Grabit (Product) - A Smart menu.
+      * Technology used: Rust, Axum, Leptos, Leptonic, Tailwind, Render, Cloudflare, Clap
 #### Storetools | Development Intern | June 2023 - December 2023
     * Fullstack shopify developer for GST Pro - A shopify embedded app for gst included invoice + reports.
       * Technology used: ReactJs, postgresql, liquidJs, NestJs, Redis, HTML, CSS, JS, TS.
